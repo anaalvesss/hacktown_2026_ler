@@ -6,4 +6,4 @@
 |-|-|
 |[Draw.io](https://app.diagrams.net/)|Diagramas de Caso de Uso|Wireframes|
 |[Canva](https://www.canva.com/)|Site|Apresentação de Slides|
-|[Microsoft Word]|Documentação|
+|Microsoft Word|Documentação|
